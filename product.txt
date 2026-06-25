@@ -1,0 +1,5 @@
+103,HP Elitebook,HP,1000,3
+101,lenevo thinkpad t460,thinkpad,1000,3
+104,chromebook,chromebook,500,10
+105,chrmebook,chromebook,123,4
+32,23,12,2,23
